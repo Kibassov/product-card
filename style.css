@@ -26,7 +26,6 @@ body {
   z-index: -1;
 }
 h1 {
-  width: 846px;
   margin: 0 auto;
   padding-top: 220px;
   font-size: 70px;
@@ -40,7 +39,7 @@ h1 {
   flex-wrap: wrap;
   list-style-type: none;
   gap: 45px;
-  width: 1110px;
+  max-width: 1110px;
   margin: 110px auto 0 auto;
   padding-left: 0;
 }
